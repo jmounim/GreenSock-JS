@@ -15,6 +15,7 @@ import TimelineMax from "./TimelineMax.js";
 import TweenMax from "./TweenMax.js";
 import CSSPlugin from "./CSSPlugin.js";
 import AttrPlugin from "./AttrPlugin.js";
+import ScrollToPlugin from "./ScrollToPlugin.js";
 import RoundPropsPlugin from "./RoundPropsPlugin.js";
 import DirectionalRotationPlugin from "./DirectionalRotationPlugin.js";
 import BezierPlugin from "./BezierPlugin.js";
@@ -22,4 +23,4 @@ import { Back, Elastic, Bounce, RoughEase, SlowMo, SteppedEase, Circ, Expo, Sine
 
 
 export { TweenMax as default };
-export { TweenLite, TweenMax, TimelineLite, TimelineMax, CSSPlugin, AttrPlugin, BezierPlugin, RoundPropsPlugin, DirectionalRotationPlugin, TweenPlugin, Ease, Power0, Power1, Power2, Power3, Power4, Linear, Back, Elastic, Bounce, RoughEase, SlowMo, SteppedEase, Circ, Expo, Sine, ExpoScaleEase, _gsScope };
+export { TweenLite, TweenMax, TimelineLite, TimelineMax, CSSPlugin, AttrPlugin, ScrollToPlugin, BezierPlugin, RoundPropsPlugin, DirectionalRotationPlugin, TweenPlugin, Ease, Power0, Power1, Power2, Power3, Power4, Linear, Back, Elastic, Bounce, RoughEase, SlowMo, SteppedEase, Circ, Expo, Sine, ExpoScaleEase, _gsScope };
